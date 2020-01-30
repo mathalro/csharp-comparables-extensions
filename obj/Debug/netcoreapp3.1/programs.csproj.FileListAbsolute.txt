@@ -1,0 +1,11 @@
+C:\Users\Eduarda\programs\bin\Debug\netcoreapp3.1\programs.exe
+C:\Users\Eduarda\programs\bin\Debug\netcoreapp3.1\programs.deps.json
+C:\Users\Eduarda\programs\bin\Debug\netcoreapp3.1\programs.runtimeconfig.json
+C:\Users\Eduarda\programs\bin\Debug\netcoreapp3.1\programs.runtimeconfig.dev.json
+C:\Users\Eduarda\programs\bin\Debug\netcoreapp3.1\programs.dll
+C:\Users\Eduarda\programs\bin\Debug\netcoreapp3.1\programs.pdb
+C:\Users\Eduarda\programs\obj\Debug\netcoreapp3.1\programs.csprojAssemblyReference.cache
+C:\Users\Eduarda\programs\obj\Debug\netcoreapp3.1\programs.AssemblyInfoInputs.cache
+C:\Users\Eduarda\programs\obj\Debug\netcoreapp3.1\programs.AssemblyInfo.cs
+C:\Users\Eduarda\programs\obj\Debug\netcoreapp3.1\programs.dll
+C:\Users\Eduarda\programs\obj\Debug\netcoreapp3.1\programs.pdb
